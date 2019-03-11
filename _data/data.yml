@@ -134,12 +134,12 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: House price prediction:
+      - title: House price prediction
         link: "#"
         tagline: "There are total 1461 rows and 81 columns in train.csv and is tested on 1460 rows and 80 columns present in test.csv on the basis of which i predict the House Sale price and have achieved 287 rank out of 4122 students in kaggle competion.
 "
 
-      - title: Titanic:Machine Learning from Disaster
+      - title: Titanic Machine Learning from Disaster
         link: "#"
         tagline: "There are total  891 rows and 12 columns in train.csv and is tested on 418 rows and 11 columns present in test.csv on the basis of which i predict the whether the person get survived or not if survived then 1 as a output else 0,have achieved 3232nd rank out of 9749."
 
