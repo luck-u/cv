@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: lakshaywadhwa001@gmail.com
     phone: 742 699 4863
-    website: blog.webjeda.com #do not add http://
+#     website: blog.webjeda.com #do not add http://
     linkedin: lakshaywadhwa
     github: luck-u
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+#     twitter: '@webjeda'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
