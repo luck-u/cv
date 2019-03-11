@@ -7,16 +7,16 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Lakshay Wadhwa
+    tagline: Machine Learning Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
+    email: lakshaywadhwa001@gmail.com
+    phone: 742 699 4863
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    linkedin: lakshaywadhwa
+    github: luck-u
     gitlab:
     bitbucket:
     twitter: '@webjeda'
@@ -25,24 +25,24 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+#       - idiom: Spanish
+#         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Singing
         link:
 
-      - item: Snowboarding
+      - item: Dancing
         link:
 
-      - item: Cooking
-        link:
+#       - item: Cooking
+#         link:
 
 career-profile:
     title: Career Profile
@@ -56,75 +56,75 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree:B.TECH in computer Science
+      university: Jaipur Engineering College and Research Centre,RTU UNIVERSITY
+      time: 2016 - 2020
+#       details: |
+#         Describe your study here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#         sociis natoque penatibus et magnis dis parturient montes, nascetur
+#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#         pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+#           - Bullet point
+#           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+#     - degree: BSc in Applied Mathematics
+#       university: Bristol University
+#       time: 2007 - 2011
+#       details: |
+#         Describe your study here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#         sociis natoque penatibus et magnis dis parturient montes, nascetur
+#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#         pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+#           - Bullet point
+#           - Bullet point
 
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+# experiences:
+#     - role: Lead Developer
+#       time: 2015 - Present
+#       company: Startup Hubs, San Francisco
+#       details: |
+#         Describe your role here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#         Cum sociis natoque penatibus et magnis dis parturient montes,
+#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#         pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+#         enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+#         error sit voluptatem accusantium doloremque laudantium, totam rem
+#         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+#         architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
+#           - Bullet point
+#           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+#     - role: Senior Software Engineer
+#       time: 2014 - 2015
+#       company: Google, London
+#       details: |
+#         Describe your role here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#         Cum sociis natoque penatibus et magnis dis parturient montes,
+#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+#           - Bullet point
+#           - Bullet point
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+#     - role: UI Developer
+#       time: 2012 - 2014
+#       company: Amazon, London
+#       details: |
+#         Describe your role here lorem ipsum dolor sit amet, consectetuer
+#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#         Cum sociis natoque penatibus et magnis dis parturient montes,
+#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+#           - Bullet point
+#           - Bullet point
 
 projects:
     title: Projects
@@ -134,25 +134,53 @@ projects:
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
+      - title: House price prediction:
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "There are total 1461 rows and 81 columns in train.csv and is tested on 1460 rows and 80 columns present in test.csv on the basis of which i predict the House Sale price and have achieved 287 rank out of 4122 students in kaggle competion.
+"
 
-      - title: Tempo
+      - title: Titanic:Machine Learning from Disaster
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "There are total  891 rows and 12 columns in train.csv and is tested on 418 rows and 11 columns present in test.csv on the basis of which i predict the whether the person get survived or not if survived then 1 as a output else 0,have achieved 3232nd rank out of 9749."
 
-      - title: Atom
+      - title: Webscrapping
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "It is done using beautiful soup library in which tweets of a person are extracted from twitter"
+      
+      - title: Twitter Sentiment analysis
+        link: "#"
+        tagline: "In these i have used textblob library and sentiment analysis is done on the tweets of a person like if polarity>0 it is positive elseif polarity<0 negative tweet else neutral tweets"
+  
+      - title:Recommender system
+        link: "#"
+        tagline: "The code uses the lightfm recommender system library to train a hybrid content-based + collaborative algorithm that uses the WARP loss function on the movielens dataset. The movielens dataset contains movies and ratings from over 1700 users. Once trained, our script prints out recommended movies for whatever users from the dataset that we choose to terminal.
+"
 
-      - title: Delta
+      - title:Image_classifer
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "This model is built in paperspace and i have used a pre-trained model, that is, a model created by some one else to solve a different problem. Instead of building a model from scratch to solve a similar problem, we'll use a model trained on ImageNet (1.2 million images and 1000 classes) as a starting point. The model is a Convolutional Neural Network (CNN), a type of Neural Network that builds state-of-the-art models for computer vision.I have used the resnet34 model. resnet34 is a version of the model that won the 2015 ImageNet competition.I have train and evalulate a baseball vs cricket model in 3 lines of code."
+      
+      - title:nobroker
+        link: "#"
+        tagline: "These problem is given in RTU hackathon in which have given 25,000 property data from a particular city and we have around 25 attribute and we have converted it into around 36 attribute and data is unbalance , we have to predict the a rent range of property in which we have achieved 80.04% accuracy.
+            Make an Flask based web application in which users input the data and get rent of property ,The link of my herokuapp is 
+https://no-broker.herokuapp.com"
+     
+      - title:youtube_spam_detector_ML-Flask-App
+        link: "#"
+        tagline:"In these website user will enter the COMMENT and our machine learning model will predict that whether it is SPAM or NOTSPAM, we have given the 1947 rows data  and I have trained it on different types of content  using machine learning and have  used flask framework for backend and HTML ,CSS for frontend."
+        
+      - title:Income-Prediction-Webapp
+        link: "#"
+        tagline:"Flask based web application for predicting the income of a person The link of my herokuapp is 
+https://income-predictor-webapp.herokuapp.com"
+      
+      - title:Digit Recoginition
+        link: "#"
+        tagline:"In these project I have used MNIST dataset and tensorflow as a framework to recognize the digit and achieved
+91.4% accuracy."
+        
+
 
 publications:
     title: Publications
@@ -178,23 +206,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Machine learning with sklearn,pandas,numpy,matplotlib
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Deep Learning with pytorch,tensorflow,keras
+        level: 60%
 
-      - name: Angular
-        level: 98%
+      - name: python
+        level: 65%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: c,c++
+        level: 55%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Flask
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
