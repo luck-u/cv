@@ -151,33 +151,33 @@ projects:
         link: "#"
         tagline: "In these i have used textblob library and sentiment analysis is done on the tweets of a person like if polarity>0 it is positive elseif polarity<0 negative tweet else neutral tweets"
   
-      - title:Recommender system
+      - title: Recommender system
         link: "#"
         tagline: "The code uses the lightfm recommender system library to train a hybrid content-based + collaborative algorithm that uses the WARP loss function on the movielens dataset. The movielens dataset contains movies and ratings from over 1700 users. Once trained, our script prints out recommended movies for whatever users from the dataset that we choose to terminal.
 "
 
-      - title:Image_classifer
+      - title: Image_classifer
         link: "#"
         tagline: "This model is built in paperspace and i have used a pre-trained model, that is, a model created by some one else to solve a different problem. Instead of building a model from scratch to solve a similar problem, we'll use a model trained on ImageNet (1.2 million images and 1000 classes) as a starting point. The model is a Convolutional Neural Network (CNN), a type of Neural Network that builds state-of-the-art models for computer vision.I have used the resnet34 model. resnet34 is a version of the model that won the 2015 ImageNet competition.I have train and evalulate a baseball vs cricket model in 3 lines of code."
       
-      - title:nobroker
+      - title: nobroker
         link: "#"
         tagline: "These problem is given in RTU hackathon in which have given 25,000 property data from a particular city and we have around 25 attribute and we have converted it into around 36 attribute and data is unbalance , we have to predict the a rent range of property in which we have achieved 80.04% accuracy.
             Make an Flask based web application in which users input the data and get rent of property ,The link of my herokuapp is 
 https://no-broker.herokuapp.com"
      
-      - title:youtube_spam_detector_ML-Flask-App
+      - title: youtube_spam_detector_ML-Flask-App
         link: "#"
-        tagline:"In these website user will enter the COMMENT and our machine learning model will predict that whether it is SPAM or NOTSPAM, we have given the 1947 rows data  and I have trained it on different types of content  using machine learning and have  used flask framework for backend and HTML ,CSS for frontend."
+        tagline: "In these website user will enter the COMMENT and our machine learning model will predict that whether it is SPAM or NOTSPAM, we have given the 1947 rows data  and I have trained it on different types of content  using machine learning and have  used flask framework for backend and HTML ,CSS for frontend."
         
-      - title:Income-Prediction-Webapp
+      - title: Income-Prediction-Webapp
         link: "#"
-        tagline:"Flask based web application for predicting the income of a person The link of my herokuapp is 
+        tagline: "Flask based web application for predicting the income of a person The link of my herokuapp is 
 https://income-predictor-webapp.herokuapp.com"
       
-      - title:Digit Recoginition
+      - title: Digit Recoginition
         link: "#"
-        tagline:"In these project I have used MNIST dataset and tensorflow as a framework to recognize the digit and achieved
+        tagline: "In these project I have used MNIST dataset and tensorflow as a framework to recognize the digit and achieved
 91.4% accuracy."
         
 
