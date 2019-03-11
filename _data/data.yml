@@ -44,16 +44,16 @@ sidebar:
 #       - item: Cooking
 #         link:
 
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+# career-profile:
+#     title: Career Profile
+#     summary: |
+#       Summarise your career here lorem ipsum dolor sit amet, consectetuer
+#       adipiscing elit. You can [download this free resume/CV template here]().
+#       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+#       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+#       Donec quam felis, ultricies nec, pellentesque eu.
 
-      Second paragraph if required.
+#       Second paragraph if required.
 
 education:
     - degree: B.TECH in computer Science
@@ -206,7 +206,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Machine learning with sklearn,pandas,numpy,matplotlib
+      - name: Machine learning
         level: 70%
 
       - name: Deep Learning with pytorch,tensorflow,keras
@@ -223,6 +223,10 @@ skills:
 
       - name: Flask
         level: 50%
+      
+      - name: sklearn,pandas,numpy,matplotlib
+        level: 55%
+       
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
